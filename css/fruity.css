@@ -44,7 +44,7 @@ body{font-size: 1.6rem;}
     left:50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    mask-image: url("/images/cane.svg");
+    mask-image: url("../images/cane.svg");
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
     -webkit-mask-position: center center;
